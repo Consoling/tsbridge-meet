@@ -23,4 +23,4 @@
 
 
 
-<p class="color: #ffffff; font-size:5px;">Please give a star if you like the project</p>
+<h3 class="color: #ffffff; font-size:5px;">Please give a star if you like the project</h3>
