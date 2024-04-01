@@ -5,5 +5,5 @@
 
 
 <a href="https://tsbridge-meet.vercel.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fwebsite-logo-png-web-site-logos-free-download-free-transparent-png-logos--774056254719822458%2F&psig=AOvVaw1G0o1OVkhYozG6sIo0wS-D&ust=1712075121191000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDW-f-2oYUDFQAAAAAdAAAAABAE"/>
 </a>
