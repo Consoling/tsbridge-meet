@@ -4,7 +4,7 @@
 
 
 
-<div>
+<div class="display: flex; justify-content: center; align-items: center;">
   <a href="https://tsbridge-meet.vercel.app/">
   <img height="50" src="https://i.pinimg.com/736x/86/c3/05/86c30529904c3a992eb7241299e5f3e5.jpg"/>
 </a>
@@ -13,3 +13,7 @@
 
 
 <h1 class="color: #ffffff; font-size:10px;">Description :</h1>
+
+
+
+<span class="color: #ffffff; font-size:8px;">FrontEnd Technology: <p class="color: #ffffff; font-size:7px;">A meeting application made using Next JS, Shad CN UI and Tailwind Css</p> </span>
